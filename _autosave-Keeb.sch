@@ -1,0 +1,578 @@
+EESchema Schematic File Version 5
+EELAYER 43 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 4150 2600
+Connection ~ 4650 2600
+Connection ~ 4650 3500
+Connection ~ 5150 2600
+Connection ~ 5150 3500
+Connection ~ 5650 2600
+Connection ~ 5650 3500
+Connection ~ 6150 2600
+Connection ~ 6150 3500
+Connection ~ 6650 2600
+Connection ~ 6650 3500
+Connection ~ 6650 3850
+Wire Wire Line
+	1450 1200 1450 3400
+Wire Wire Line
+	1450 3800 1950 3800
+Wire Wire Line
+	1450 5900 1450 3800
+Wire Wire Line
+	1500 4000 1950 4000
+Wire Wire Line
+	1500 5850 1500 4000
+Wire Wire Line
+	1550 1300 2500 1300
+Wire Wire Line
+	1550 3300 1550 1300
+Wire Wire Line
+	1550 4100 1950 4100
+Wire Wire Line
+	1550 5800 1550 4100
+Wire Wire Line
+	1600 4200 1950 4200
+Wire Wire Line
+	1600 5750 1600 4200
+Wire Wire Line
+	1650 1400 2500 1400
+Wire Wire Line
+	1650 3200 1650 1400
+Wire Wire Line
+	1650 4300 1950 4300
+Wire Wire Line
+	1650 5700 1650 4300
+Wire Wire Line
+	1700 4500 1950 4500
+Wire Wire Line
+	1700 5650 1700 4500
+Wire Wire Line
+	1750 2950 1750 1550
+Wire Wire Line
+	1750 4600 1950 4600
+Wire Wire Line
+	1750 5600 1750 4600
+Wire Wire Line
+	1800 4700 1950 4700
+Wire Wire Line
+	1800 5550 1800 4700
+Wire Wire Line
+	1850 4800 1950 4800
+Wire Wire Line
+	1850 5500 1850 4800
+Wire Wire Line
+	1900 5000 1950 5000
+Wire Wire Line
+	1900 5450 1900 5000
+Wire Wire Line
+	1950 3200 1650 3200
+Wire Wire Line
+	1950 3300 1550 3300
+Wire Wire Line
+	1950 3400 1450 3400
+Wire Wire Line
+	1950 5400 1950 5100
+Wire Wire Line
+	2350 2950 1750 2950
+Wire Wire Line
+	2350 3600 2350 2950
+Wire Wire Line
+	2500 1200 1450 1200
+Wire Wire Line
+	2500 1550 1750 1550
+Wire Wire Line
+	3350 3400 3600 3400
+Wire Wire Line
+	3350 3600 2350 3600
+Wire Wire Line
+	3350 3800 4100 3800
+Wire Wire Line
+	3350 4100 4200 4100
+Wire Wire Line
+	3350 4300 4250 4300
+Wire Wire Line
+	3350 4400 4650 4400
+Wire Wire Line
+	3600 2600 3600 3400
+Wire Wire Line
+	3600 2600 4150 2600
+Wire Wire Line
+	3750 2150 7300 2150
+Wire Wire Line
+	3750 2450 3750 2150
+Wire Wire Line
+	3750 2850 3750 3150
+Wire Wire Line
+	3750 3150 6750 3150
+Wire Wire Line
+	4100 3200 5750 3200
+Wire Wire Line
+	4100 3800 4100 3200
+Wire Wire Line
+	4150 2450 4150 2600
+Wire Wire Line
+	4150 2850 4150 2600
+Wire Wire Line
+	4150 3250 4150 4000
+Wire Wire Line
+	4150 4000 3350 4000
+Wire Wire Line
+	4200 3300 4750 3300
+Wire Wire Line
+	4200 4100 4200 3300
+Wire Wire Line
+	4250 2200 7250 2200
+Wire Wire Line
+	4250 2450 4250 2200
+Wire Wire Line
+	4250 2850 4250 3100
+Wire Wire Line
+	4250 3100 6800 3100
+Wire Wire Line
+	4250 4300 4250 3350
+Wire Wire Line
+	4650 2450 4650 2600
+Wire Wire Line
+	4650 2600 4150 2600
+Wire Wire Line
+	4650 2850 4650 2600
+Wire Wire Line
+	4650 3350 4650 3500
+Wire Wire Line
+	4650 4400 4650 3500
+Wire Wire Line
+	4750 2250 7200 2250
+Wire Wire Line
+	4750 2450 4750 2250
+Wire Wire Line
+	4750 2850 4750 3050
+Wire Wire Line
+	4750 3050 6850 3050
+Wire Wire Line
+	4750 3300 4750 3350
+Wire Wire Line
+	5150 2450 5150 2600
+Wire Wire Line
+	5150 2600 4650 2600
+Wire Wire Line
+	5150 2850 5150 2600
+Wire Wire Line
+	5150 3350 5150 3500
+Wire Wire Line
+	5150 3500 4650 3500
+Wire Wire Line
+	5250 2300 7150 2300
+Wire Wire Line
+	5250 2450 5250 2300
+Wire Wire Line
+	5250 2850 5250 3000
+Wire Wire Line
+	5250 3000 6900 3000
+Wire Wire Line
+	5250 3250 4150 3250
+Wire Wire Line
+	5250 3350 5250 3250
+Wire Wire Line
+	5250 3850 5250 4500
+Wire Wire Line
+	5250 4500 3350 4500
+Wire Wire Line
+	5650 2450 5650 2600
+Wire Wire Line
+	5650 2600 5150 2600
+Wire Wire Line
+	5650 2850 5650 2600
+Wire Wire Line
+	5650 3350 5650 3500
+Wire Wire Line
+	5650 3500 5150 3500
+Wire Wire Line
+	5650 3850 5650 3500
+Wire Wire Line
+	5750 2350 7100 2350
+Wire Wire Line
+	5750 2450 5750 2350
+Wire Wire Line
+	5750 2850 5750 2950
+Wire Wire Line
+	5750 2950 6950 2950
+Wire Wire Line
+	5750 3200 5750 3350
+Wire Wire Line
+	5750 3850 5750 4600
+Wire Wire Line
+	5750 4600 3350 4600
+Wire Wire Line
+	5950 4000 5950 4700
+Wire Wire Line
+	5950 4700 3350 4700
+Wire Wire Line
+	6150 2450 6150 2600
+Wire Wire Line
+	6150 2600 5650 2600
+Wire Wire Line
+	6150 2850 6150 2600
+Wire Wire Line
+	6150 3350 6150 3500
+Wire Wire Line
+	6150 3500 5650 3500
+Wire Wire Line
+	6150 3850 6150 3500
+Wire Wire Line
+	6250 2400 7050 2400
+Wire Wire Line
+	6250 2450 6250 2400
+Wire Wire Line
+	6250 2850 6250 2900
+Wire Wire Line
+	6250 2900 7000 2900
+Wire Wire Line
+	6250 3300 6700 3300
+Wire Wire Line
+	6250 3350 6250 3300
+Wire Wire Line
+	6250 3850 6250 4000
+Wire Wire Line
+	6250 4000 5950 4000
+Wire Wire Line
+	6250 4200 6250 4800
+Wire Wire Line
+	6250 4800 3350 4800
+Wire Wire Line
+	6650 2600 6150 2600
+Wire Wire Line
+	6650 2600 6650 2450
+Wire Wire Line
+	6650 2850 6650 2600
+Wire Wire Line
+	6650 3350 6650 3500
+Wire Wire Line
+	6650 3500 6150 3500
+Wire Wire Line
+	6650 3500 6650 3850
+Wire Wire Line
+	6650 4200 6650 3850
+Wire Wire Line
+	6700 3300 6700 5000
+Wire Wire Line
+	6700 5000 3350 5000
+Wire Wire Line
+	6750 3150 6750 5100
+Wire Wire Line
+	6750 5100 3350 5100
+Wire Wire Line
+	6800 3100 6800 5400
+Wire Wire Line
+	6800 5400 1950 5400
+Wire Wire Line
+	6850 3050 6850 5450
+Wire Wire Line
+	6850 5450 1900 5450
+Wire Wire Line
+	6900 3000 6900 5500
+Wire Wire Line
+	6900 5500 1850 5500
+Wire Wire Line
+	6950 2950 6950 5550
+Wire Wire Line
+	6950 5550 1800 5550
+Wire Wire Line
+	7000 2900 7000 5600
+Wire Wire Line
+	7000 5600 1750 5600
+Wire Wire Line
+	7050 2400 7050 5650
+Wire Wire Line
+	7050 5650 1700 5650
+Wire Wire Line
+	7100 2350 7100 5700
+Wire Wire Line
+	7100 5700 1650 5700
+Wire Wire Line
+	7150 2300 7150 5750
+Wire Wire Line
+	7150 5750 1600 5750
+Wire Wire Line
+	7200 2250 7200 5800
+Wire Wire Line
+	7200 5800 1550 5800
+Wire Wire Line
+	7250 2200 7250 5850
+Wire Wire Line
+	7250 5850 1500 5850
+Wire Wire Line
+	7300 2150 7300 5900
+Wire Wire Line
+	7300 5900 1450 5900
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW1
+U 1 1 6537A51C
+P 3950 2450
+F 0 "SW1" H 3950 2735 50  0000 C CNN
+F 1 "CherryMX" H 3950 2644 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 3950 2475 50  0001 C CNN
+F 3 "" H 3950 2475 50  0001 C CNN
+	1    3950 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW2
+U 1 1 6538F80F
+P 3950 2850
+F 0 "SW2" H 3950 3135 50  0000 C CNN
+F 1 "CherryMX" H 3950 3044 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 3950 2875 50  0001 C CNN
+F 3 "" H 3950 2875 50  0001 C CNN
+	1    3950 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW3
+U 1 1 6537EAC4
+P 4450 2450
+F 0 "SW3" H 4450 2735 50  0000 C CNN
+F 1 "CherryMX" H 4450 2644 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 4450 2475 50  0001 C CNN
+F 3 "" H 4450 2475 50  0001 C CNN
+	1    4450 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW4
+U 1 1 6538F815
+P 4450 2850
+F 0 "SW4" H 4450 3135 50  0000 C CNN
+F 1 "CherryMX" H 4450 3044 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 4450 2875 50  0001 C CNN
+F 3 "" H 4450 2875 50  0001 C CNN
+	1    4450 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW5
+U 1 1 65391BFF
+P 4450 3350
+F 0 "SW5" H 4450 3635 50  0000 C CNN
+F 1 "CherryMX" H 4450 3544 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 4450 3375 50  0001 C CNN
+F 3 "" H 4450 3375 50  0001 C CNN
+	1    4450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW6
+U 1 1 6537EFDC
+P 4950 2450
+F 0 "SW6" H 4950 2735 50  0000 C CNN
+F 1 "CherryMX" H 4950 2644 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 4950 2475 50  0001 C CNN
+F 3 "" H 4950 2475 50  0001 C CNN
+	1    4950 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW7
+U 1 1 6538F81B
+P 4950 2850
+F 0 "SW7" H 4950 3135 50  0000 C CNN
+F 1 "CherryMX" H 4950 3044 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 4950 2875 50  0001 C CNN
+F 3 "" H 4950 2875 50  0001 C CNN
+	1    4950 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW8
+U 1 1 65391C05
+P 4950 3350
+F 0 "SW8" H 4950 3635 50  0000 C CNN
+F 1 "CherryMX" H 4950 3544 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 4950 3375 50  0001 C CNN
+F 3 "" H 4950 3375 50  0001 C CNN
+	1    4950 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW9
+U 1 1 6537F1E0
+P 5450 2450
+F 0 "SW9" H 5450 2735 50  0000 C CNN
+F 1 "CherryMX" H 5450 2644 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 5450 2475 50  0001 C CNN
+F 3 "" H 5450 2475 50  0001 C CNN
+	1    5450 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW10
+U 1 1 6538F821
+P 5450 2850
+F 0 "SW10" H 5450 3135 50  0000 C CNN
+F 1 "CherryMX" H 5450 3044 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 5450 2875 50  0001 C CNN
+F 3 "" H 5450 2875 50  0001 C CNN
+	1    5450 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW11
+U 1 1 65391C0B
+P 5450 3350
+F 0 "SW11" H 5450 3635 50  0000 C CNN
+F 1 "CherryMX" H 5450 3544 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 5450 3375 50  0001 C CNN
+F 3 "" H 5450 3375 50  0001 C CNN
+	1    5450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW12
+U 1 1 65394F09
+P 5450 3850
+F 0 "SW12" H 5450 4135 50  0000 C CNN
+F 1 "CherryMX" H 5450 4044 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 5450 3875 50  0001 C CNN
+F 3 "" H 5450 3875 50  0001 C CNN
+	1    5450 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW13
+U 1 1 6537F59D
+P 5950 2450
+F 0 "SW13" H 5950 2735 50  0000 C CNN
+F 1 "CherryMX" H 5950 2644 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 5950 2475 50  0001 C CNN
+F 3 "" H 5950 2475 50  0001 C CNN
+	1    5950 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW14
+U 1 1 6538F827
+P 5950 2850
+F 0 "SW14" H 5950 3135 50  0000 C CNN
+F 1 "CherryMX" H 5950 3044 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 5950 2875 50  0001 C CNN
+F 3 "" H 5950 2875 50  0001 C CNN
+	1    5950 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW15
+U 1 1 65391C11
+P 5950 3350
+F 0 "SW15" H 5950 3635 50  0000 C CNN
+F 1 "CherryMX" H 5950 3544 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 5950 3375 50  0001 C CNN
+F 3 "" H 5950 3375 50  0001 C CNN
+	1    5950 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW16
+U 1 1 65394F0F
+P 5950 3850
+F 0 "SW16" H 5950 4135 50  0000 C CNN
+F 1 "CherryMX" H 5950 4044 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 5950 3875 50  0001 C CNN
+F 3 "" H 5950 3875 50  0001 C CNN
+	1    5950 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW17
+U 1 1 6537FD31
+P 6450 2450
+F 0 "SW17" H 6450 2735 50  0000 C CNN
+F 1 "CherryMX" H 6450 2644 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 6450 2475 50  0001 C CNN
+F 3 "" H 6450 2475 50  0001 C CNN
+	1    6450 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW18
+U 1 1 6538F82D
+P 6450 2850
+F 0 "SW18" H 6450 3135 50  0000 C CNN
+F 1 "CherryMX" H 6450 3044 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 6450 2875 50  0001 C CNN
+F 3 "" H 6450 2875 50  0001 C CNN
+	1    6450 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW19
+U 1 1 65391C17
+P 6450 3350
+F 0 "SW19" H 6450 3635 50  0000 C CNN
+F 1 "CherryMX" H 6450 3544 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 6450 3375 50  0001 C CNN
+F 3 "" H 6450 3375 50  0001 C CNN
+	1    6450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW20
+U 1 1 65394F15
+P 6450 3850
+F 0 "SW20" H 6450 4135 50  0000 C CNN
+F 1 "CherryMX" H 6450 4044 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 6450 3875 50  0001 C CNN
+F 3 "" H 6450 3875 50  0001 C CNN
+	1    6450 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:CherryMX-CherryMX SW21
+U 1 1 65394F03
+P 6450 4200
+F 0 "SW21" H 6450 4485 50  0000 C CNN
+F 1 "CherryMX" H 6450 4394 50  0000 C CNN
+F 2 "CherryMX:CherryMX_1.00u" H 6450 4225 50  0001 C CNN
+F 3 "" H 6450 4225 50  0001 C CNN
+	1    6450 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keeb-rescue:MJ-4PP-9-MJ-4PP-9 J1
+U 1 1 654AEDA7
+P 3050 1400
+F 0 "J1" H 2572 1334 50  0000 R CNN
+F 1 "MJ-4PP-9" H 2572 1425 50  0000 R CNN
+F 2 "MJ-4PP-9:MJ-4PP-9" H 2450 1300 50  0001 C CNN
+F 3 "" H 2450 1300 50  0001 C CNN
+	1    3050 1400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Keeb-rescue:Pico-MCU_RaspberryPi_and_Boards U1
+U 1 1 6537B1C2
+P 2650 4150
+F 0 "U1" H 2650 5365 50  0000 C CNN
+F 1 "Pico" H 2650 5274 50  0000 C CNN
+F 2 "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" V 2650 4150 50  0001 C CNN
+F 3 "" H 2650 4150 50  0001 C CNN
+	1    2650 4150
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
